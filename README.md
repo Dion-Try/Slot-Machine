@@ -1,3 +1,3 @@
-# Slot-Machine
+# slot_machine_DHMR
 
-Slot Machine im Lernatelier
+Slot Maschine für Lernatelier.
